@@ -1,0 +1,25 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(10,16): error C3646: 'firstName': unknown override specifier
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(10,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(11,16): error C3646: 'lastName': unknown override specifier
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(11,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(15,5): error C2065: 'string': undeclared identifier
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(15,12): error C2146: syntax error: missing ';' before identifier 'str_input'
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(15,12): error C2065: 'str_input': undeclared identifier
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(16,5): error C2065: 'cout': undeclared identifier
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(17,5): error C2065: 'cin': undeclared identifier
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(17,12): error C2065: 'str_input': undeclared identifier
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(19,14): error C2039: 'firstName': is not a member of 'main::<unnamed-type-customer>'
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(8,12): message : see declaration of 'main::<unnamed-type-customer>'
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(19,26): error C2065: 'str_input': undeclared identifier
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(21,5): error C2065: 'cout': undeclared identifier
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(22,5): error C2065: 'cin': undeclared identifier
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(22,12): error C2065: 'str_input': undeclared identifier
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(23,14): error C2039: 'lastName': is not a member of 'main::<unnamed-type-customer>'
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(8,12): message : see declaration of 'main::<unnamed-type-customer>'
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(23,25): error C2065: 'str_input': undeclared identifier
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(28,5): error C2065: 'cout': undeclared identifier
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(28,22): error C2039: 'firstName': is not a member of 'main::<unnamed-type-customer>'
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(8,12): message : see declaration of 'main::<unnamed-type-customer>'
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(28,51): error C2039: 'lastName': is not a member of 'main::<unnamed-type-customer>'
+C:\Users\robin.huang\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(8,12): message : see declaration of 'main::<unnamed-type-customer>'
